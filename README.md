@@ -1,4 +1,1 @@
-peni
-====
-
-It is School management software. Planned include everything like social networking to school erp.
+Balapa is a School management web application developed in Ruby
